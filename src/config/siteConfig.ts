@@ -10,14 +10,14 @@ export const siteConfig: SiteConfig = {
 	title: "バカバカ",
 
 	// 站点副标题
-	subtitle: "xk的个人博客(暂)",
+	subtitle: "应该是xk的个人博客",
 
 	// 站点 URL
 	site_url: "https://520xk.xyz",
 
 	// 站点描述
 	description:
-		"xk的个人博客(暂)",
+		"应该是xk的个人博客",
 
 	// 站点关键词
 	keywords: [
@@ -27,13 +27,13 @@ export const siteConfig: SiteConfig = {
 		"ACGN",
 		"笨蛋笨蛋",
 		"mtx?mtf?",
-		"静态博客",
+		"玉玉症",
 	],
 
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 345,
 		// 是否对访问者隐藏主题色选择器
 		fixed: false,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
@@ -91,7 +91,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01",
+	siteStartDate: "2026-05-08",
 
 	// 站点时区（IANA 时区字符串），用于格式化bangumi、rss里的构建日期时间等等..
 	// 示例："Asia/Shanghai", "UTC", 如果为空，则按照构建服务器的时区进行时区转换
@@ -118,7 +118,7 @@ export const siteConfig: SiteConfig = {
 	// bangumi配置
 	bangumi: {
 		// Bangumi用户ID
-		userId: "1143164",
+		userId: "887207",
 		// 条目类型排序，数组中的类型将按顺序优先展示
 		// 可选值: "anime" | "book" | "music" | "game" | "real" (暂不支持"real"类型)
 		// 未列出的类型将按默认顺序排在后面
