@@ -73,6 +73,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"君は本当にどうしようもない馬鹿ですね",
+				"どうして自分をちゃんと愛することさえできないのか",
+				
+				
 				
 				
 			],
@@ -88,7 +91,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				// 删除速度（毫秒）
 				deleteSpeed: 50,
 				// 完全显示后的暂停时间（毫秒）
-				pauseTime: 2000,
+				pauseTime: 6000,
 			},
 		},
 		// 图片来源
@@ -101,9 +104,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Net Music - 松坂盐",
+				desktop: "NetEasy - 松坂盐",
 				// 移动端要显示的来源文本
-				mobile: "Net Music - 松坂盐",
+				mobile: "NetEasy - 松坂盐",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接

@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "这里是某位神人精神病患者的树洞。正常人快跑！",
+	content: "我就把这当树洞吧,反正无人过往、无人应答......",
 
 	// 是否允许用户关闭公告
 	closable: true,
