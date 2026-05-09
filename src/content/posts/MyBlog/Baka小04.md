@@ -6,7 +6,7 @@ tags: [笨蛋笨蛋, 原生家庭,重大创伤]
 category: 长文-笨蛋笨蛋
 #password: ""
 #passwordHint: ""
-pinned: true
+pinned: false
 updated: 2026-05-09
 image: "./tomorin.jpg"
 author: 松坂盐

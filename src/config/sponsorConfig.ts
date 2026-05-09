@@ -9,7 +9,7 @@ export const sponsorConfig: SponsorConfig = {
 
 	// 赞助用途说明
 	usage:
-		"您的赞助将用于服务器维护、内容创作和功能开发，帮助我持续提供优质内容。",
+		"您的赞助将用于服务器、域名续费，但其实这个并不贵。",
 
 	// 是否显示赞助者列表
 	showSponsorsList: true,
@@ -47,30 +47,23 @@ export const sponsorConfig: SponsorConfig = {
 			description: "Buy a Coffee for Firefly",
 			enabled: true,
 		},
-		{
-			name: "爱发电",
-			icon: "simple-icons:afdian",
-			qrCode: "",
-			link: "https://ifdian.net/a/cuteleaf",
-			description: "通过 爱发电 进行赞助",
-			enabled: true,
-		},
+
 	],
 
 	// 赞助者列表（可选）
 	sponsors: [
 		// 示例：已实名赞助者
 		{
-			name: "夏叶",
+			name: "松坂盐",
 			amount: "¥50",
-			date: "2025-10-01",
+			date: "2026-05-08",
 		},
 
 		// 示例：匿名赞助者
 		{
-			name: "匿名用户",
-			amount: "¥20",
-			date: "2025-10-01",
+			name: "",
+			amount: "",
+			date: "",
 		},
 	],
 };
