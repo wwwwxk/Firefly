@@ -22,6 +22,8 @@ export const galleryConfig: GalleryConfig = {
 			date: "2026-05-20",
 			tags: ["晓山瑞希"],
 		},
+
+
 		{
 			id: "Yamamoto Ryo",
 			name: "山田凉",
@@ -30,6 +32,8 @@ export const galleryConfig: GalleryConfig = {
 			date: "2026-05-20",
 			tags: ["山田凉"],
 		},
+
+
 		{
 			id: "千面Melancholy Love",
 			name: "千面",
@@ -39,6 +43,16 @@ export const galleryConfig: GalleryConfig = {
 			tags: ["Gal: 千面"],
 		},
 		{
+			id: "千面Melancholy Love Word",
+			name: "千面の语",
+			description: "如果被埋在雪里的人是我，你会来寻找我吗？挖开一千层的雪？",
+			location: "Yuri❤️",
+			date: "2026-05-20",
+			tags: ["Gal: 千面"],
+		},
+
+
+		{
 			id: "Flowers -Le volume sur printemps-",
 			name: "Flowers春",
 			description: "如花四散,余香绕指,心中的裂痕亦能被填补。简而言之,这是“一个少女们与季节一起成长的故事”。",
@@ -46,6 +60,17 @@ export const galleryConfig: GalleryConfig = {
 			date: "2026-05-20",
 			tags: ["Gal: Flowers春"],
 		},
+		{
+			id: "Flowers -Le volume sur printemps- Word",
+			name: "Flowers春の语",
+			description: "如花四散,余香绕指,心中的裂痕亦能被填补。简而言之,这是“一个少女们与季节一起成长的故事”。",
+			location: "Yuri❤️",
+			date: "2026-05-20",
+			tags: ["Gal: Flowers春"],
+			cover:"/gallery/Flowers -Le volume sur printemps- Word/20260416210745_1.jpg"
+		},
+
+
 		{
 			id: "Flowers -Le volume sur ete-",
 			name: "Flowers夏",
@@ -55,7 +80,15 @@ export const galleryConfig: GalleryConfig = {
 			tags: ["Gal: Flowers夏"],
 			cover:"/gallery/Flowers -Le volume sur ete-/00-07.jpg"
 		},
-
+{
+			id: "Flowers -Le volume sur ete- Word",
+			name: "Flowers夏の语",
+			description: "如花四散,余香绕指,心中的裂痕亦能被填补。简而言之,这是“一个少女们与季节一起成长的故事”。",
+			location: "Yuri❤️",
+			date: "2026-05-20",
+			tags: ["Gal: Flowers夏"],
+			cover:"/gallery/Flowers -Le volume sur ete- Word/20260428215346_1.jpg"
+		},
 
 
 
