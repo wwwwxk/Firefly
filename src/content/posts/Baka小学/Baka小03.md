@@ -1,6 +1,6 @@
 ---
 title: 笨蛋笨蛋  小学篇3  《丢河》
-published: 2026-05-09
+published: 2026-05-07
 description: 疯癫的妇人、黝黑的河水与死去的我。
 tags: [笨蛋笨蛋, 原生家庭,重大创伤,小学]
 category: 长文-笨蛋笨蛋

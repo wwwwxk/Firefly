@@ -1,6 +1,6 @@
 ---
 title: 笨蛋笨蛋  小学篇2  《胸衣》
-published: 2026-05-09
+published: 2026-05-06
 description: 好吧，大概幼时就有性别认知模糊了。
 tags: [笨蛋笨蛋, 原生家庭,性别焦虑,小学]
 category: 长文-笨蛋笨蛋

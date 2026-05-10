@@ -2,14 +2,14 @@ import type { SponsorConfig } from "../types/config";
 
 export const sponsorConfig: SponsorConfig = {
 	// 页面标题，如果留空则使用 i18n 中的翻译
-	title: "",
+	title: "赞助",
 
 	// 页面描述文本，如果留空则使用 i18n 中的翻译
-	description: "",
+	description: "对于悲观的人还是不要赞助为好，我怕她乐观起来了。",
 
 	// 赞助用途说明
 	usage:
-		"您的赞助将用于服务器、域名续费，但其实这个并不贵。",
+		"赞助将用于服务器、域名续费，但其实这个并不贵，所以请三思。",
 
 	// 是否显示赞助者列表
 	showSponsorsList: true,
@@ -18,7 +18,7 @@ export const sponsorConfig: SponsorConfig = {
 	showComment: true,
 
 	// 是否在文章详情页底部显示赞助按钮
-	showButtonInPost: true,
+	showButtonInPost: false,
 
 	// 赞助方式列表
 	methods: [
@@ -39,14 +39,8 @@ export const sponsorConfig: SponsorConfig = {
 			description: "使用 微信 扫码赞助",
 			enabled: true,
 		},
-		{
-			name: "ko-fi",
-			icon: "simple-icons:kofi",
-			qrCode: "",
-			link: "https://ko-fi.com/cuteleaf",
-			description: "Buy a Coffee for Firefly",
-			enabled: true,
-		},
+		
+		
 
 	],
 

@@ -1,6 +1,6 @@
 ---
 title: 笨蛋笨蛋  小学篇1  《打胎》
-published: 2026-05-09
+published: 2026-05-05
 description: 幼时，我还没上小学的时候，母亲被拉去人为流产了......
 tags: [笨蛋笨蛋, 原生家庭]
 category: 长文-笨蛋笨蛋

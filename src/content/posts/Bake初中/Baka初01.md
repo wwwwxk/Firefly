@@ -2,12 +2,12 @@
 title: 笨蛋笨蛋  初中篇1  《战争》
 published: 2026-05-10
 description: 认为叛逆期不该叛逆的才是最叛逆的吧。
-tags: [笨蛋笨蛋,初中,叛逆]
+tags: [笨蛋笨蛋,初中,叛逆,原生家庭]
 category: 长文-笨蛋笨蛋
 #password: ""
 #passwordHint: ""
 pinned: false
-updated: 2026-05-10
+updated: 2026-05-20
 image: "./战争后.jpeg"
 author: 松坂盐
 draft: false

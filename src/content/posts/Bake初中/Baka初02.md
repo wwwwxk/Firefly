@@ -1,13 +1,13 @@
 ---
 title: 笨蛋笨蛋  初中篇2  《夜行》
-published: 2026-05-10
+published: 2026-05-11
 description: ねぇ、いつか大人になったら、僕らどう成るんだろうね，何かしたいことはあるのかい，僕はそれが見たいかな。
-tags: [笨蛋笨蛋,初中,叛逆]
+tags: [笨蛋笨蛋,初中,叛逆,原生家庭,Elma]
 category: 长文-笨蛋笨蛋
 #password: ""
 #passwordHint: ""
 pinned: false
-updated: 2026-05-10
+updated: 2026-05-20
 image: "./夜行.jpg"
 author: 松坂盐
 draft: false

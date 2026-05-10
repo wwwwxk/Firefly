@@ -5,10 +5,10 @@ import type { FriendLink, FriendsPageConfig } from "../types/config";
 // 友链页面配置
 export const friendsPageConfig: FriendsPageConfig = {
 	// 页面标题，如果留空则使用 i18n 中的翻译
-	title: "",
+	title: "友链",
 
 	// 页面描述文本，如果留空则使用 i18n 中的翻译
-	description: "",
+	description: "这里是原博客模版作者留下的友链内容。（你不会以为一个半夜写博客的多种疾病缠身的死宅会有朋友吧？）",
 
 	// 是否显示底部自定义内容（friends.mdx 中的内容）
 	showCustomContent: true,
