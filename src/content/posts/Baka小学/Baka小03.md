@@ -1,14 +1,14 @@
 ---
-title: 笨蛋笨蛋  小学篇  《丢河》
+title: 笨蛋笨蛋  小学篇3  《丢河》
 published: 2026-05-09
-description: 这将会是一篇散文形式的私小说合集，关于我与我的家庭。
-tags: [笨蛋笨蛋, 原生家庭,重大创伤]
+description: 疯癫的妇人、黝黑的河水与死去的我。
+tags: [笨蛋笨蛋, 原生家庭,重大创伤,小学]
 category: 长文-笨蛋笨蛋
 #password: ""
 #passwordHint: ""
 pinned: false
 updated: 2026-05-09
-image: "./tomorin.jpg"
+image: "./命に嫌われている.jpg"
 author: 松坂盐
 draft: false
 comment: true

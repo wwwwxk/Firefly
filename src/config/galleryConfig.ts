@@ -113,8 +113,8 @@ export const galleryConfig: GalleryConfig = {
 		{
 			id: "愛してよ",
 			name: "愛してよ",
-			description: "KirakiraDokidokiの世界、始まる!",
-			location: "三次元の离开",
+			description: "いつか海になって 空になって 人になっていく",
+			location: "再见",
 			date: "2026-05-20",
 			tags: ["愛して"],
 		},
