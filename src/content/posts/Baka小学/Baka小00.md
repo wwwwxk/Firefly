@@ -1,7 +1,7 @@
 ---
-title: 笨蛋笨蛋  小学篇0  前记
+title: 笨蛋笨蛋  前记
 published: 2026-05-04
-description: 这将会是一篇散文形式的私小说合集，关于我与我的家庭。
+description: 这将会是一篇散文形式的私小说合集，关于我与我的家庭。写完之时，便会离去......
 tags: [笨蛋笨蛋]
 category: 长文-笨蛋笨蛋
 #password: ""

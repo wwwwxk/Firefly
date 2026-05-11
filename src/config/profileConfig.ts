@@ -36,14 +36,14 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "1191186801@qq.com",
+			url: "mailto:1191186801@qq.com",
 			showName: false,
 		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
+		//{
+		//	name: "RSS",
+		//	icon: "fa7-solid:rss",
+		//	url: "/rss/",
+		//	showName: false,
+		//},
 	],
 };
