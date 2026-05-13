@@ -2,7 +2,7 @@
 title: 笨蛋笨蛋  间篇1  《中考后暑假》
 published: 2026-05-12
 description: 或许我早就该死掉了。
-tags: [笨蛋笨蛋,初中,原生家庭,自残,Elma]
+tags: [笨蛋笨蛋,间篇,原生家庭,自残,Elma]
 category: 长文-笨蛋笨蛋
 #password: ""
 #passwordHint: ""
