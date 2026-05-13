@@ -1,7 +1,7 @@
 ---
 title: 笨蛋笨蛋  大学篇1  《2026/4/27早醒》
 published: 2026-05-13
-description: 文章加工中。
+description: 大学？谁上？我...我吗？我不是死了吗？
 tags: [笨蛋笨蛋,大学,同学]
 category: 长文-笨蛋笨蛋
 #password: ""
