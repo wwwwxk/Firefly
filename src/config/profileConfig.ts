@@ -28,12 +28,6 @@ export const profileConfig: ProfileConfig = {
 			showName: false,
 		},
 		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/wwwwxk",
-			showName: false,
-		},
-		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
 			url: "mailto:1191186801@qq.com",
