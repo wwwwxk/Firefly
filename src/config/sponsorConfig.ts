@@ -9,7 +9,7 @@ export const sponsorConfig: SponsorConfig = {
 
 	// 赞助用途说明
 	usage:
-		"赞助将用于服务器、域名续费，但其实这个并不贵，所以请三思。",
+		"赞助将用于服务器、域名续费",
 
 	// 是否显示赞助者列表
 	showSponsorsList: true,
@@ -22,15 +22,15 @@ export const sponsorConfig: SponsorConfig = {
 
 	// 赞助方式列表
 	methods: [
-		{
-			name: "支付宝",
-			icon: "fa7-brands:alipay",
-			// 收款码图片路径（需要放在 public 目录下）
-			qrCode: "/assets/images/sponsor/alipay.png",
-			link: "",
-			description: "使用 支付宝 扫码赞助",
-			enabled: true,
-		},
+		//{
+		//	name: "支付宝",
+		//	icon: "fa7-brands:alipay",
+		//	// 收款码图片路径（需要放在 public 目录下）
+		//	qrCode: "/assets/images/sponsor/alipay.png",
+		//	link: "",
+		//	description: "使用 支付宝 扫码赞助",
+		//	enabled: true,
+		//},
 		{
 			name: "微信",
 			icon: "fa7-brands:weixin",
